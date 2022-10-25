@@ -60,7 +60,7 @@ color: var(--secondary-text-color);
 }
 .tel-footer,
 .mail-footer {
-     color: var(--secondary-text-color);
+     color: rgba(255,255,255, 0.6);
      font-weight: 400;
      font-size: 14px;
      line-height: 1.71;
